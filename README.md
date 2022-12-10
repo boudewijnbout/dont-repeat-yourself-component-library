@@ -1,8 +1,8 @@
-# ⚡ CMD Midterm
+# ⚡ CMD Midterm (Component Library)
 
 <img width="800" alt="Schermafbeelding 2022-11-03 om 16 42 03" src="https://user-images.githubusercontent.com/45170095/199767105-61408413-58ae-4293-aeef-dfe5e7c48306.png">
 
-Dit project omvat een andere versie van de CMD Midterm website. Ik heb deze variant gemaakt, omdat ik niet tevreden was met het resultaat van vorige sprint en omdat ik niet verder kwam met mijn nuxt3 project.
+Dit project omvat een andere versie van de CMD Midterm website. In deze versie is ook gebruik gemaakt van components die afkomstig zijn vanuit de door ons gemaakte CMD Midterm component library.
 
 ## 📚 Inhoudsopgave
 
@@ -15,8 +15,8 @@ Dit project omvat een andere versie van de CMD Midterm website. Ik heb deze vari
   
 ## ⚡ Kenmerken
 
-Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
-
+Dit project is gemaakt met SvelteKit en Prismic.io en de CMD Midterm component library. Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
+ 
 **Tools**
 
 - 🖥️ VSCode
@@ -26,8 +26,8 @@ Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog e
 
 - 🚀 SvelteKit
 - 🖼 Prismic.io
+- 😎 CMD Midterm components
 - 💅🏼 CSS
-
 
 ## 📥 Installatie
 
@@ -50,6 +50,8 @@ De applicatie is op twee manieren te gebruiken: lokaal en op het web. Lokaal is 
 [Prismic](https://prismic.io/)
 <br>
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br>
+[CMD Midterm components](https://www.npmjs.com/package/cmd-midterm-components)
 
 ## 🔓 Licentie
 
