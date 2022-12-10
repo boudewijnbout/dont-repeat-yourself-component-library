@@ -41,7 +41,7 @@ Dit project is gemaakt met SvelteKit en Prismic.io en de CMD Midterm component l
 
 De applicatie is op twee manieren te gebruiken: lokaal en op het web. Lokaal is bedoeld voor het testen, experimenten en eventueel verbeteren van de applicatie in een ontwikkel omgeving. Het is ook mogelijk om de applicatie online te bezoeken en te gebruiken, dit kan op onderstaande link:
 
-[Webversie](https://lose-your-head-the-client-case-eight.vercel.app/)
+[Webversie](https://dont-repeat-yourself-component-library-five.vercel.app/)
 
 ## 📖 Bronnen
 
